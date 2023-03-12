@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 /**
  * 
- * @author Mohammed Alassad this class is core of the game, it has the the core
+ * @author this class is core of the game, it has the the core
  *         features of the game except for the class player.
  */
 public class LadderAndSnake {
