@@ -1,7 +1,6 @@
 import java.util.*;
 /**
  *--------------------------------------
- * Mohammed Alassad
  * COMP249
  * Assignment 1
  * 02/02/2023
